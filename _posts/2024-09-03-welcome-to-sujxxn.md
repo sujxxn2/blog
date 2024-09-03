@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Welcome!!
-subtitle: A awesome static site generator.
+title: 첫 포스팅입니다.
+subtitle: 테스트입니다.
 author: sujxxn
 categories: sujxxn
 banner:
