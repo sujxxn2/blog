@@ -5,3 +5,4 @@ gemspec
 
 
 gem "jekyll-livereload", "~> 0.2.2"
+gem "kramdown-parser-gfm"
